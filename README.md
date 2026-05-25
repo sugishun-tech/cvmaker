@@ -1,4 +1,4 @@
-# cvmaker_cairo_pdf_v2
+# cvmaker
 
 履歴書PDF生成ツールです。
 
